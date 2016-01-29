@@ -1,0 +1,172 @@
+
+
+
+
+Request for Proposal Template
+This Request for Proposal (RFP) Template is free for you to copy and use on your project and within your organization. We hope that you find this template useful and welcome your comments. Public distribution of this document is only permitted from the Project Management Docs official website at:
+www.ProjectManagementDocs.com
+
+
+Request for Proposal (RFP)
+<Project Name>
+
+
+
+
+Company Name
+Street Address
+City, State Zip Code
+
+
+
+Date
+
+
+Table of Contents
+Summary and Background  2
+Proposal Guidelines 2
+Project Purpose and Description 3
+Project Scope   4
+Request for Proposal and Project Timeline   5
+Budget  5
+Bidder Qualifications   6
+Proposal Evaluation Criteria    6
+
+
+
+Summary and Background
+This section of the Request for Proposal (RFP) should provide a high level description of what the request for proposal is for and the purpose of the requirement.  It may provide background information of the organization requesting proposals as well.  Most of the requirement details will be included in subsequent sections of the document.
+
+Ace Consulting is currently accepting proposals to develop, design, launch, and host a new corporate web site.  The existing Ace Consulting web site was developed and launched in 2001.  In an effort to achieve more “wins” from clients via the corporate web site, Ace Consulting has determined that a new platform is needed which is more user-friendly and allows for improved interaction among potential clients.
+
+The purpose of this Request for Proposal (RFP) is to solicit proposals from various candidate organizations, conduct a fair and extensive evaluation based on criteria listed herein, and select the candidate who best represents the direction Ace Consulting wishes to go.
+
+Ace Consulting is a small business that was founded in 1985 and is focused on project management consulting and the implementation of best practice processes and solutions.  Our client base consists of other small and medium-sized businesses as well as local, state, and federal government organizations which lack project management experience and expertise.
+
+Ace Consulting is consolidated in its headquarters in Washington, D.C. with some consultants traveling to and working from client sites on a temporary basis.
+
+Our services include:
+Project and Program Management (all phases)
+Process Improvement
+Human Capital Resource Management
+Project and Program Management Training (small scale)
+
+Proposal Guidelines
+This section of the Request for Proposal should provide a description of what each responding organization’s proposal should contain.  It should also include a timeline within which all proposals must be submitted.  Any requirements that must be included in each proposal should be described in detail in this section of the RFP.
+
+This Request for Proposal represents the requirements for an open and competitive process.  Proposals will be accepted until 5pm EST August 30, 20xx.  Any proposals received after this date and time will be returned to the sender.  All proposals must be signed by an official agent or representative of the company submitting the proposal.
+
+If the organization submitting a proposal must outsource or contract any work to meet the requirements contained herein, this must be clearly stated in the proposal.  Additionally, all costs included in proposals must be all-inclusive to include any outsourced or contracted work.  Any proposals which call for outsourcing or contracting work must include a name and description of the organizations being contracted.
+
+All costs must be itemized to include an explanation of all fees and costs.
+
+Contract terms and conditions will be negotiated upon selection of the winning bidder for this RFP.  All contractual terms and conditions will be subject to review by Ace Consulting legal department and will include scope, budget, schedule, and other necessary items pertaining to the project.
+
+Project Purpose and Description
+This section of the Request for Proposal should provide the purpose and description of the project or work to be performed in as much detail as possible.  In order for companies to submit accurate proposals, they need the details of exactly what work needs to be performed and the purpose of the work.  The purpose of the work is important because sometimes bidders may be able to provide different but more effective solutions.
+
+The purpose of this project is as follows:
+Ace Consulting’s current web site was implemented in 2001 and senior level management has determined that it is not effective in providing a thorough description of our services and offerings in a user-friendly online environment.  Additionally, the site has not been effective in achieving wins for the company as it is often difficult to navigate and to find more information on various services.  Ace Consulting believes that by using current web-based technologies and a more effective site design, we can provide our clients and potential clients with more information, a more user-friendly environment, and achieve more wins from prospective clients.
+
+Project Description:
+Ace Consulting is seeking a provider to utilize the latest web-based technology to create a web site that is user friendly, simple to use, provides detailed information about our services and offerings, and is easy to add or modify content.  The site design should incorporate the latest key word search practices and maximize “searchability” in all current internet search engines.
+
+The finished web site must allow Ace Consulting’s IT group to easily manipulate the layout and content in order to allow for frequent changes in the dynamic environment in which we work where things constantly change.
+
+The web site design and layout should be aesthetically pleasing, simple for users to navigate, provide descriptions of all Ace Consulting services, management biographies, and contact information.  The site must also be completely secure against intrusion.  The site should also allow users to submit their contact information in order to be added to our list of potential clients to receive regular updates and new developments.
+
+Additionally, the site should include a page which lists current job offerings within Ace Consulting and descriptions of our benefits and hiring process in order to improve our ability to attract talented employees.
+
+Project Scope
+While the project description provides bidders with general information about the project, this part of the Request for Proposal should include detail of what exactly is required for the project as well as what is not included as part of the project.  In addition to the description of the project, this section should detail any additional work required to achieve the desired result (i.e. research, coding, etc.).
+
+The scope of this project includes all design, development, coding, licensing, and hosting of Ace Consulting’s new web site.  All text and copy will be provided to the selected bidder by Ace Consulting’s marketing department for inclusion in the design of the new web site.
+
+The selected bidder will be responsible for planning and conducting a thorough market research portfolio with assistance from Ace Consulting’s marketing group.  This portfolio will analyze all current contacts and determine target demographics for future and potential clients.
+
+The following criteria must be met to achieve a successful project:
+Visually and aesthetically pleasing web site design
+User-friendly environment that is easy to navigate
+Consistency of design across all pages/sections of the web site in a design theme that fits targeted market segment(s)
+Ability to migrate current web content to new web site
+Site can be changed/modified easily by Ace Consulting personnel with minimal effort
+All software and licensing requirements should be included as part of this project
+Site should be searchable with on key word searches based on site content
+Prominent display of Ace Consulting corporate logo, company mission, vision, and strategy throughout all pages of the web site
+Site should be compatible with all current web browsing technology and easily upgradeable
+Ability to work closely with Ace Consulting IT Manager on coordination of project tasks and resources
+Plan and perform a complete testing process on web site and database in order to ensure functionality
+Hosting of both the web site and database which collects and tracks site visitor information to include:
+Pages visited
+Length of page visit
+Visitor trends
+Visitor origin URLs
+Search tool analysis
+Visitor page maps
+Site referrals
+
+Request for Proposal and Project Timeline
+The Request for Proposal should provide known information about the timeline for the RFP process as well as the project itself.  Much of the project timeline will be determined in the project initiation and planning phases once the winning bidder is chosen.  However, any known deadlines or timeframes should be listed in this section.
+
+Request for Proposal Timeline:
+All proposals in response to this RFP are due no later than 5pm EST August 30, 20xx.
+
+Evaluation of proposals will be conducted from September 1, 20xx until September 15, 20xx.  If additional information or discussions are needed with any bidders during this two week window, the bidder(s) will be notified.
+
+The selection decision for the winning bidder will be made no later than September 16, 20xx.
+
+Upon notification, the contract negotiation with the winning bidder will begin immediately.  Contract negotiations will be completed by September 30, 20xx.
+
+Notifications to bidders who were not selected will be completed by September 20, 20xx.
+
+Project Timeline:
+Project initiation phase must be completed by October 31, 20xx.
+
+Project planning phase must be completed by December 15, 20xx.  Project planning phase will determine the timeline/schedule for the remaining phases of the project.
+
+Budget
+This section of the Request for Proposal should explain what bidders include in their proposals regarding budget items.  Often, an RFP will ask bidders to list pricing a certain way or describe what exactly should be included in the pricing for the proposal.  This may describe specific items to include or exclude depending on the project or task.
+
+All proposals must include proposed costs to complete the tasks described in the project scope.  Costs should be stated as one-time or non-recurring costs (NRC) or monthly recurring costs (MRC).  Pricing should be listed for each of the following items in accordance with the format below:
+
+Project Initiation and Planning     NRC     MRC
+Market Research             NRC     MRC
+Site/Database Development       NRC     MRC
+Site/Database Testing           NRC     MRC
+Site/Database Deployment        NRC     MRC
+Site/Database Hosting           NRC     MRC
+
+NOTE: All costs and fees must be clearly described in each proposal.
+
+Bidder Qualifications
+This part of the Request for Proposal should describe the criteria that will comprise the successful bidder’s organization.  You may solicit examples of work from bidders, contact information for follow on questioning, company history, executive background, information on company size, organizational charts, or any other number of information to aid in the decision making process.
+
+Bidders should provide the following items as part of their proposal for consideration:
+Description of experience in planning, building, and hosting corporate web sites
+List of how many full time, part time, and contractor staff in your organization
+Examples of 3 or more corporate web sites designed and implemented by your organization
+Testimonials from past clients on web site building and hosting work
+Anticipated resources you will assign to this project (total number, role, title, experience)
+A full testing plan
+Timeframe for completion of the project
+Project management methodology
+
+Proposal Evaluation Criteria
+Here the Request for Proposal should describe exactly how proposals will be evaluated.  It should include a list of criteria that will be reviewed and describe what is suitable for each of the criteria.  The more detail that can be included, the more thorough and complete the proposals should be.
+
+Ace Consulting will evaluate all proposals based on the following criteria.  To ensure consideration for this Request for Proposal, your proposal should be complete and include all of the following criteria:
+Overall proposal suitability: proposed solution(s) must meet the scope and needs included herein and be presented in a clear and organized manner
+Organizational Experience: Bidders will be evaluated on their experience as it pertains to the scope of this project
+Previous work: Bidders will be evaluated on examples of their work pertaining to web site design and hosting as well as client testimonials and references
+Value and cost: Bidders will be evaluated on the cost of their solution(s) based on the work to be performed in accordance with the scope of this project
+Technical expertise and experience: Bidders must provide descriptions and documentation of staff technical expertise and experience
+
+Each bidder must submit 5 copies of their proposal to the address below by August 30, 20xx at 5pm EST:
+
+Ace Consulting
+123 Constitution Avenue, NW
+Washington, D.C. 20001
+
+
+
+This free Request for Proposal Template (RFP template)  is brought to you by www.ProjectManagementDocs.com
